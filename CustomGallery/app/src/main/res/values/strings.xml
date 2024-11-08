@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomGallery</string>
+    <string name="btn_select">선택</string>
+    <string name="btn_submit">제출</string>
+    <string name="msg_no_images">선택된 이미지가 없습니다</string>
+    <string name="need_permission">권한이 필요합니다.</string>
+    <string name="goToGallery">갤러리 가기</string>
+</resources>
